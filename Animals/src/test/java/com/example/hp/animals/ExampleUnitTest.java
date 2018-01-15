@@ -1,8 +1,8 @@
-package com.example.hp.chack;
+package com.example.hp.animals;
 
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 /**
  * Example local unit test, which will execute on the development machine (host).
